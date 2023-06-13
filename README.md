@@ -1,6 +1,6 @@
 # finalexam
-Reflection on Class
-I enjoyed this class much more than I thought I would. I had a completely different idea on what the class was about
+Reflection on the Class;
+- > I enjoyed this class much more than I thought I would. I had a completely different idea on what the class was about
 and ended up having quite a surprise. I refreshed and improved my programming and coding abilities regarding several
 topics about Decision Support Analysis, it was pretty interesting to get know different techniques to reach out for
 effective and informed decisions on multiple areas, like deciding where to invest efforts, resources, money; on 
